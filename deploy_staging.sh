@@ -1,1 +1,1 @@
-echo "Deploying to staging..."
+echo "TODO this script should deploy the application to staging"
